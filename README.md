@@ -1,0 +1,2 @@
+# onside
+strict templet
